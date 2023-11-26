@@ -1,5 +1,10 @@
 # projeto-Python-DS
-Projeto de Data Science via Python
+Projeto de Data Science via Python. Este é um projeto que busca prever o preço de um apartamento no airbnb no Rio de Janeiro. Ele tem dois públicos-alvo: A pessoa que quer saber qual valor deve colocar em seu imóvel no airbnb e a pessoa que quer saber se o preço que está vendo ao analisar uma hospedagem está justo.
+
+Todas as etapas estão explicadas abaixo, contando com a busca e utilização das bases de dados e deploy via streamlit.
+
+Observação: Dado que o GitHub não permite arquivos muito grandes, não foi possível fazer o upload da base de dados utilizada e nem do arquivo .joblib em que o modelo de machine learning foi armazenado. Porém, a fonte da base de dados está bem indicada na explicação abaixo.
+
 
 # Projeto de Preços para imóveis na plataforma Airbnb
 
