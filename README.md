@@ -3,7 +3,10 @@ Projeto de Data Science via Python. Este é um projeto que busca prever o preço
 
 Todas as etapas estão explicadas abaixo, contando com a busca e utilização das bases de dados e deploy via streamlit.
 
-Observação: Dado que o GitHub não permite arquivos muito grandes, não foi possível fazer o upload da base de dados utilizada e nem do arquivo .joblib em que o modelo de machine learning foi armazenado. Porém, a fonte da base de dados está bem indicada na explicação abaixo.
+Observação: Dado que o GitHub não permite arquivos muito grandes, não foi possível fazer o upload da base de dados utilizada e nem do arquivo .joblib em que o modelo de machine learning foi armazenado. Porém, a fonte da base de dados está bem indicada na explicação abaixo. Portanto, é necessário realizar as seguintes etapas:
+1- Baixar a base de dados e nomear sua pasta como 'dataset'
+2- Rodar o código para criar o modelo
+3- Via prompt do Anaconda, instalar o streamlit (pip install streamlit), navegar até a pasta onde está os dados e o arquivo .py e rodar o arquivo .py do deploy (streamlit run Deploy_do_Arquivo_Airbnb.py)
 
 
 # Projeto de Preços para imóveis na plataforma Airbnb
